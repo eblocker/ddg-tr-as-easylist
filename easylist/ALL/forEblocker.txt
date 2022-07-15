@@ -1,6 +1,6 @@
 ! Last modified: 06 Apr 2022 04:34 UTC
-! Expires: 100 days (update frequency)
-! Checksum: hZVkgrG3ZYmac01jknuk7Q
+! Expires: 365 days (update frequency)
+! Checksum: u2xlm/rh5xVlT8ifo+i/BQ
 0.code.cotsta.ru/dist/a.min.js
 0.code.cotsta.ru/dist/p4.41.0.js
 00a29756.de.ioam.de/blank.gif
